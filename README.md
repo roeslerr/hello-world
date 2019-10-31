@@ -1,2 +1,5 @@
 # hello-world
-Test Git Repository
+
+This my first repository on GitHub
+
+I love :coffee: :chocolate:, and :Travel:.
